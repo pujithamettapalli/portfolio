@@ -3,7 +3,6 @@ import React from "react";
 function About() {
   return (
     <section id="about">
-
       <h2>About Me</h2>
       <h4>Student Developer</h4>
 
@@ -12,11 +11,7 @@ function About() {
         and modern technologies. I enjoy creating responsive and user-friendly
         web applications using HTML, CSS, JavaScript and React.
       </p>
-
       <h3>Education</h3>
-
-      
-
 <table className="education-table">
   <thead>
     <tr>
