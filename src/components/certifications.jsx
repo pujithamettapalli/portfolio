@@ -2,8 +2,8 @@ import React from "react";
 
 function Certifications() {
   return (
-    <section id="Certifications" className="Certifications">
-
+    
+      <section id="certifications" className="Certifications">
       <h2>Certifications</h2>
 
       <div className="cert-list">
